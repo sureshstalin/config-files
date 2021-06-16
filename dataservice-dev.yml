@@ -2,7 +2,7 @@ server:
   port: 9093
 spring:
   application:
-    name: dataservice.yml
+    name: dataservice
   data:
     cassandra:
       keyspace-name: itgarden
