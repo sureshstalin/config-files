@@ -13,5 +13,3 @@ eureka:
   client:
     service-url:
       default-zone: http://localhost:8761/eureka
-billing:
-  app: This is billing App API-Gatway default
