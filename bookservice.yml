@@ -3,4 +3,4 @@ server:
 spring:
   application:
     name: bookservice
-test: hello
+test: hello1
